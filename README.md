@@ -1,0 +1,1 @@
+Houve atualização de layout no Figma, posicionamento e estilização de botões com `display: flex`, adição de ícones em links, alinhamento com `justify-content`, uso do seletor `hover`, criação e estilização do `header` e `footer`, navegação com `<nav>`, e desenvolvimento da página “Sobre mim” com links para “Home”.
